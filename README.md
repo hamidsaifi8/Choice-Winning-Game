@@ -1,3 +1,3 @@
 # Random Card Picking Game
-- Can use multiple players.
+- Can play multiple players.
 - Whoever have same card, will win and score will be shown.
